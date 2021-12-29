@@ -1,9 +1,5 @@
 # Tawfik KHORB ReactJS Portfolio Template      
 
-## 👇 WATCH THIS FIRST 👇
-
-![ReactJS Resume Website Template](resume-screenshot.png "ReactJS Resume Website Template")
-
 ## <a href="https://tawfikkhorb.netlify.app/">LIVE DEMO</a>
 
 ## Description
