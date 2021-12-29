@@ -2,7 +2,7 @@
 
 ## 👇 WATCH THIS FIRST 👇
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.png "ReactJS Resume Website Template")
 
 ## <a href="https://tawfikkhorb.netlify.app/">LIVE DEMO</a>
 
