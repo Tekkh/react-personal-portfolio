@@ -1,3 +1,4 @@
+vim: syntax=JSX
 import React, { Component } from 'react';
 import $ from 'jquery';
 import './App.css';
