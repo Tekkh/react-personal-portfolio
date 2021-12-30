@@ -2,20 +2,20 @@
   "main": {
     "name": "Tawfik KHORB",
     "occupation": "Web Developer",
-    "description": "I am a Oujda based, Full Stack Web Developer.",
-    "image": "Tawfik.jpg",
-    "bio": "My name is Tawfik, I'm an athlete at heart, with an entrepreneurial spirit, and a passion for coding I am a Full Stack Web Developer. I worked as an intern for mdinashop company. Currently I'm working Freelance.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "description": "I am a Mohammedia based, Full Stack Web Developer.",
+    "image": "tek.png",
+    "bio": "My name is Tawfik, I'm an athlete at heart, with an entrepreneurial spirit, and a passion for coding I am a Full Stack Web Developer. I worked as a Data Analyst and Scrum Master for mdinashop company. Currently I'm working as Sap SD consultant at ONEE.",
+    "contactmessage": "Get in touch with me to receive further details, develop a website or anything else.",
     "email": "tkhorbi@gmail.com",
-    "phone": "+212 766 84 84 52 ",
+    "phone": "+212 700 00 00 00 ",
     "address": {
-      "street": "1746 53 Street",
-      "city": "Taourirt",
+      "street": "111 St. ",
+      "city": "Mohammedia",
       "state": "Morocco",
-      "zip": "65800"
+      "zip": "28000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1PGNLss1PDnlYbZZc3U3x3CoPSFSmGJ86/view?usp=sharing",
+    "website": "http://www.tkhorb.com",
+    "resumedownload": "https://drive.google.com/file/d/1bXfLy1jVgbz2P0PmcTluHEwF-qt2iXQm/view",
     "social": [
       {
         "name": "facebook",
@@ -44,9 +44,15 @@
     "education": [
       {
         "school": "University of Mohammed First",
-        "degree": "Associate degree in Computer Science",
+        "degree": "Bachelor's degree in Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with Distinction. Here I took my degree of Business Intelligence."
+      },
+      {
+        "school": "University of Mohammed First",
+        "degree": "Associate's degree in Computer Science",
         "graduated": "July 2019",
-        "description": "Graduated with Distinction. Here I took my Degree of Computer Science with a Software Developement Specialty and achieved a much more through education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion"
+        "description": "Graduated with Distinction. Here I took my degree of Computer Science with a Software Developement Specialty and achieved a much more through education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion"
       },
       {
         "school": "Salah Eddine Al-ayoubi High School",
@@ -58,33 +64,39 @@
     "work": [
       {
         "company": "Mdinashop",
+        "title": "Data Analyst && Scrum Master",
+        "years": "May 2021 - September 2021",
+        "description": "Collect, process, analyse and present data. Facilitate applying scrum approach. "
+      },
+      {
+        "company": "Mdinashop",
         "title": "Team Member && Web Developer",
         "years": "April 2019 - June 2019",
         "description": "Building a delievry web appliction for better customer services. built with HTML, CSS, JS, PHP, Yii Framework "
       },
       {
-        "company": "IMANE Print",
+        "company": "SpeedJob",
         "title": "Web Developer",
-        "years": "June 2018 - July 2018",
-        "description": "I worked as an intern to edit and manage the website of the company based on Wordpress"
+        "years": "December 2016 - September 2018",
+        "description": "I worked as a web developer to build the second version of Speedjob Website and as a Scrum master to facilitate applying scrum approach."
       }
     ],
     "skills": [
 
       {
-        "name": "PHP",
+        "name": "Agile Project Management",
         "level": "80%"
       },
       {
-        "name": "JavaScript",
+        "name": "React / JavaScript",
         "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "75%"
+        "name": "VueJS / Laravel",
+        "level": "70%"
       },
       {
-        "name": "HTML5",
+        "name": "Python / R",
         "level": "80%"
       },
       {
@@ -93,27 +105,23 @@
       },
       {
         "name": "Adobe XD",
-        "level": "50%"
-      },
-      {
-        "name": "MySql",
-        "level": "75%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Inventory Management System",
-        "category": "Inventory Management System built with (MySql, Php, JavaScript, HTML, Css, Bootstrap)",
-        "image": "inventory.jpeg",
-        "url": "#"
+        "title": "Calculator",
+        "category": "Best Calculator you will ever seen (JavaScript)",
+        "image": "calculator.png",
+        "url": "https://best-calculator-ever.netlify.app/"
       },
       {
-        "title": "Dominos Game",
-        "category": "Dominos game built with (HTML, Css,JavaScript)",
-        "image": "domino.jpeg",
-        "url": "#"
+        "title": "Dice Game",
+        "category": "Dice game built with (JavaScript)",
+        "image": "dice.png",
+        "url": "https://simple-dice-game-against-computer.netlify.app/"
       },
       {
         "title": "Drum kit",
@@ -126,8 +134,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have worked with Tawfik for one project and he must be one of the good developers. It is amazing that nobody has hired him yet. he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time! .",
-        "user": "Mohammed Jabbari"
+        "text": "I have worked with Tawfik. From the start of the project, through to completion, Warren supported us and exceeded our expectations in every way. Not only was our experience personal and friendly, his ability to identify and present our key messages in an imaginative and creative way gave us a huge amount of confidence in him. In many ways Warren understood our client's website needs better than we did and he complimented our vision perfectly. He's reliable, professional and easy to work with. I can’t recommend him highly enough and we look forward to continuing our working relationship together.",
+        "user": "Michel Chandler"
       }
     ]
   }
